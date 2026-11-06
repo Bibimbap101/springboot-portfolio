@@ -6,7 +6,7 @@
       <h2 class="section-heading reveal">Selected projects</h2>
       <div class="project-grid">
 
-        <a class="project-card reveal" href="https://github.com/Bibimbap67/MStrackerWeb.git" target="_blank" rel="noopener" aria-label="View NotFlix project">
+        <a class="project-card reveal" href="https://github.com/Bibimbap101/MStrackerWeb.git" target="_blank" rel="noopener" aria-label="View NotFlix project">
           <div class="project-card__image">
             <img src="img/projects/notflix.png" alt="" loading="lazy">
             <span class="project-card__index">01</span>
@@ -32,7 +32,7 @@
           <span class="project-card__link">View Project <span class="arrow" aria-hidden="true">&rarr;</span></span>
         </a>
 
-        <a class="project-card reveal" href="https://github.com/Bibimbap67/Capitally.git" target="_blank" rel="noopener" aria-label="View Capitally project">
+        <a class="project-card reveal" href="https://github.com/Bibimbap101/Capitally.git" target="_blank" rel="noopener" aria-label="View Capitally project">
           <div class="project-card__image">
             <img src="img/projects/capitally.png" alt="" loading="lazy">
             <span class="project-card__index">03</span>

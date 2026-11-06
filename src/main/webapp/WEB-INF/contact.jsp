@@ -14,7 +14,7 @@
 
         <div class="contact__links reveal">
           <a href="mailto:jhaypanolin2@gmail.com">Email</a>
-          <a href="https://github.com/Bibimbap67" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://github.com/Bibimbap101" target="_blank" rel="noopener">GitHub</a>
           <a href="https://www.instagram.com/bibimbapkr/?hl=en" target="_blank" rel="noopener">Instagram</a>
         </div>
       </div>
